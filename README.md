@@ -6,6 +6,6 @@ The file "Analysis_Script.R" contains an Rscript for the analysis
 
 The file "paper_figures.R" contains the code used to make figures for the manuscript
 
-To see an interactive explanation of the code, click on "Nitiles_Analysis.html" then press the "Download button". Once the raw html code opens, press ctrl+s (cmd+s on a Mac) to download the file to your local machine. Open the downloaded file in the browser of your choice (Chrome and FireFox work best). 
+For an interactive analysis of the data please visit: https://bouranij.github.io/Nitriles_Analysis.html
 
 .gitignore is default from GitHub to properly format R code, please ignore this file.
